@@ -54,6 +54,19 @@ Frontend
 - [Unform](https://github.com/Rocketseat/unform)
 - [Yup](https://github.com/jquense/yup)
 
+Mobile
+
+- [Axios](https://github.com/axios/axios)
+- [Eslint](https://eslint.org/)
+- [Polished](https://polished.js.org/)
+- [Prettier](https://prettier.io/)
+- [React native](https://facebook.github.io/react-native/)
+- [React navigation](https://reactnavigation.org/)
+- [Styled components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Unform](https://github.com/Rocketseat/unform)
+- [Yup](https://github.com/jquense/yup)
+
 ## :information_source: How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
@@ -76,6 +89,15 @@ $ cd frontend && yarn
 
 # Run frontend
 $ yarn start
+
+# Go into the mobile and install dependencies
+$ cd mobile && yarn
+
+# Run app (ios)
+$ yarn ios
+
+# Run app (android)
+$ yarn android
 ```
 
 ## :memo: License
