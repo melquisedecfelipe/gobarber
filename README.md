@@ -48,6 +48,7 @@ Frontend
 - [Polished](https://polished.js.org/)
 - [Prettier](https://prettier.io/)
 - [React](https://reactjs.org/)
+- [React spring](https://www.react-spring.io/)
 - [Styled components](https://styled-components.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Unform](https://github.com/Rocketseat/unform)
