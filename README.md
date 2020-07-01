@@ -33,11 +33,15 @@ This project was developed with the following technologies:
 Backend
 
 - [Bcrypt.js](https://github.com/dcodeIO/bcrypt.js)
+- [Celebrate](https://github.com/arb/celebrate)
 - [Date fns](https://date-fns.org/)
 - [Eslint](https://eslint.org/)
+- [Handlebars](https://handlebarsjs.com/)
+- [ioredis](https://github.com/luin/ioredis)
 - [JsonWebToken](https://github.com/auth0/node-jsonwebtoken)
 - [Multer](https://github.com/expressjs/multer)
 - [Prettier](https://prettier.io/)
+- [Redis](https://redis.io/)
 - [Typeorm](https://typeorm.io/)
 - [Typescript](https://www.typescriptlang.org/)
 
